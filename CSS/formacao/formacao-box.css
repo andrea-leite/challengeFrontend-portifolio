@@ -1,0 +1,11 @@
+.formacao__box {
+    
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 347px;
+    padding: 0px;
+    width: 368px;
+
+}

@@ -1,0 +1,18 @@
+.formacao__conclusao {
+    
+    color: #464646;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    height: 19px;
+    width: 286px;
+    
+}
+.conclusao {
+
+    margin: 0px;
+
+}

@@ -1,0 +1,11 @@
+.skills__hobbies {
+    
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 88px;
+    height: 1245px;
+    padding: 0px;
+    width: 1440px;
+
+}

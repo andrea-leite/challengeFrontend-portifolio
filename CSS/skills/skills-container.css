@@ -1,0 +1,12 @@
+.skills__container {
+
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    height: 174px;
+    padding: 0px;
+    width: 1136px;
+    justify-content: center;
+
+}

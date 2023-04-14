@@ -1,0 +1,11 @@
+.formacao {
+
+    background: #EAF2FD;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 581px;
+    padding: 82px;
+    width: 1440px;
+   
+}

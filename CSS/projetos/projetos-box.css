@@ -1,0 +1,12 @@
+.projetos__box {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 64px;
+
+    width: 1136px;
+    height: 1816px;
+
+}

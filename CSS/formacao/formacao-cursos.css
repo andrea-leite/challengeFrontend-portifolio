@@ -1,0 +1,12 @@
+.formacao__cursos {
+    
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    height: 347px;
+    justify-content: space-around;
+    padding: 0px;
+    width: 1136px;
+
+}

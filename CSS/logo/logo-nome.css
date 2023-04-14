@@ -1,0 +1,13 @@
+.logo__nome {
+
+    display: flex;
+    flex-direction: row;    
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+
+    width: 134px;
+    height: 24px;
+    
+}
+

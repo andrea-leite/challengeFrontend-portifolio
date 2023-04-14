@@ -1,0 +1,12 @@
+.projetos {
+    
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding: 0px;
+
+    height: 1886px;
+    width: 1136px;
+
+}

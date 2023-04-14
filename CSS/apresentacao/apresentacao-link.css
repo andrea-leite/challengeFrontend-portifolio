@@ -1,0 +1,11 @@
+.apresentacao__link {
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 4px;
+    height: 24px;
+    padding: 0px;
+    width: 78px;
+
+}

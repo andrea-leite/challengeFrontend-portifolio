@@ -1,0 +1,14 @@
+.formacao__imagem {
+    
+    display: flex;
+    align-content: center;
+    
+}
+
+.imagem {
+
+    height: 130px;
+    width: 192px;
+
+}
+

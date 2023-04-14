@@ -1,0 +1,12 @@
+.sobre__mim {
+
+    align-items: center;
+    background: #EAF2FD;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 383px;
+    padding: 64px;
+    width: 1440px;
+    
+}

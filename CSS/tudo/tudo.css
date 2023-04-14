@@ -1,0 +1,26 @@
+.tudo {
+    background: #F5F5F5;
+    font-family: 'Raleway';
+    font-style: normal;
+    
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    height: 5020px;
+    left: 0%;
+    line-height: 1;
+    padding: 0px;
+    
+    right: 0%;
+    top: 0px;
+    width: 1440px;
+}
+
+ol, ul, li {
+
+    list-style: none;
+    text-decoration: none;   
+
+}

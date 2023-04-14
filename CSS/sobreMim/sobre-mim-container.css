@@ -1,0 +1,11 @@
+.sobre__mim__container {
+
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    height: 255px;
+    padding: 0px;
+    width: 1136px;
+
+}

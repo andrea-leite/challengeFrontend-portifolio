@@ -1,0 +1,11 @@
+.apresentacao__box {
+
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    height: 246px;
+    padding: 0px;
+    width: 751px;
+    
+}

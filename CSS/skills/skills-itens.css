@@ -1,0 +1,10 @@
+.skills__itens {
+
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0px;
+    padding: 8px;
+                
+}

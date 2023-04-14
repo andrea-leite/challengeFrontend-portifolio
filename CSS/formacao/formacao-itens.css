@@ -1,0 +1,14 @@
+.formacao__itens {
+
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 286px;
+    margin: 0px;
+    padding: 0px;
+    width: 368px;
+
+}

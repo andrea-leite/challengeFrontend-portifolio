@@ -1,0 +1,12 @@
+.apresentacao__links {
+    
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    height: 24px;
+    margin: 0px;
+    padding: 0px;
+    width: 467px;
+
+}

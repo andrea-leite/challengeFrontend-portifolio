@@ -1,0 +1,10 @@
+.skills__nome {
+    
+    align-items: center;
+    color: #464646;
+    display: flex;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+
+}

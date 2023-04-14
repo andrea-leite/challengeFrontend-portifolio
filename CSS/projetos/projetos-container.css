@@ -1,0 +1,12 @@
+.projetos__container {
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 0px;
+
+    height: 406px;
+    width: 1136px;
+
+}

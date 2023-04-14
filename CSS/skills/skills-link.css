@@ -1,0 +1,47 @@
+.skills__link {
+
+    align-items: center;
+    color: #2A7AE4;
+    display: flex;    
+    font-family: 'Font Awesome 5 Brands';
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37px;
+    text-align: center;
+    
+}
+
+.skills__html {
+
+    height: 37px;
+    width: 24px;
+
+}
+
+.skills__javascript {
+    
+    height: 37px;
+    width: 28px;
+
+}
+
+.skills__node {
+
+    height: 37px;
+    width: 40px;
+
+}
+.skills__react {
+
+    height: 37px;
+    width: 32px;
+
+}
+
+.skills__css {
+
+    height: 35.54px;
+    width: 22px;
+
+}
+
