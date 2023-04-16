@@ -1,0 +1,11 @@
+.projetos__botoes {
+
+    align-items: flex-start;
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    height: 51px;
+    padding: 0px;
+    width: 237px;
+
+}

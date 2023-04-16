@@ -1,0 +1,22 @@
+.projetos__imagem {
+ 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    gap: 10px;
+    width: 772px;
+    margin: 0px;
+    height: 426px;
+    
+}
+
+.projetos__imagem .imagem {
+
+    border-radius: 0px;
+    height: 406px;
+    width: 752px;
+    margin: 0px;
+    filter: drop-shadow(0px 4px 4px rgba (0,0,0,0.25));
+
+}

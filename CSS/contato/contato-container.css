@@ -1,11 +1,11 @@
-.projetos__container {
-
+.contato__container {
+    
     align-items: center;
     display: flex;
     flex-direction: row;
     gap: 16px;
-    height: 406px;
-    padding: 0px;
+    height: 660px;
+    padding: 64px 0px 0px;
     width: 1136px;
 
 }

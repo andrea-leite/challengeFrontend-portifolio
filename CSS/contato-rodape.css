@@ -1,11 +1,10 @@
-.projetos__box {
-
+.contato__rodape {
+    
     align-items: flex-start;
     display: flex;
     flex-direction: column;
-    gap: 64px;
-    height: 1816px;
+    height: 890px;
     padding: 0px;
-    width: 1136px;
+    width: 1440px;
 
 }

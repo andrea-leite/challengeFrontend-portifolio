@@ -1,11 +1,11 @@
-.projetos__box {
-
+.projetos__descricao {
+    
     align-items: flex-start;
     display: flex;
     flex-direction: column;
-    gap: 64px;
-    height: 1816px;
+    gap: 8px;
+    height: 112px;
     padding: 0px;
-    width: 1136px;
+    width: 348px;
 
 }

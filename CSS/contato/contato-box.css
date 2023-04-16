@@ -1,11 +1,11 @@
-.projetos__box {
-
+.contato__box {
+    
     align-items: flex-start;
     display: flex;
     flex-direction: column;
-    gap: 64px;
-    height: 1816px;
+    gap: 32px;
+    height: 596px;
     padding: 0px;
-    width: 1136px;
-
+    width: 656px;
+    
 }

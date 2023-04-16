@@ -1,0 +1,30 @@
+.projetos__botoes__demo {
+    
+    align-items: center;
+    background: #2A7AE4;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 51px;
+    justify-content: center;
+    padding: 0px;
+    width: 106px;
+
+}
+
+.botao__demo {
+
+    border: none;
+    background: #2A7AE4;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    height: 19px;
+    padding: 0px;
+    margin: 0px;
+    width: 88px;
+
+}
+
+

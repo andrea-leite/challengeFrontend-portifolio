@@ -4,9 +4,8 @@
     display: flex;
     flex-direction: column;
     gap: 32px;
-    padding: 0px;
-
     height: 1886px;
+    padding: 0px;
     width: 1136px;
 
 }
